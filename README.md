@@ -9,7 +9,7 @@ This guide is a condensed **beginner → advanced** Linux roadmap for informatio
 2. Run every command yourself on a Linux VM.
 3. Complete the chapter activities before moving on.
 4. Use the summary checklist to revise before tests/exams.
-
+5. Use the wsl library and starting coding within ubuntu terminal to pratice linux coding
 ---
 
 ## Chapter 1: Linux Fundamentals
